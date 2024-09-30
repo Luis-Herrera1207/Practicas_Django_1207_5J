@@ -11,6 +11,6 @@ Aqui se realizan las practicas en Django que es un Framework (Marco de trabajo)
 9. Actualizar pip --> python -m pip install --upgrade pip
 10. Instalar FameWork Django --> python -m pip install django
 11. Crear el proyecto en python Django --> django-admin startproject cbtis128_5J_1207 .
-12. Ejecutar el servidor --> python manage.py runserver.
+12. Ejecutar el servidor --> python manage.py runserver
 13. Realizar migracion --> python manage.py migrate
 14. vuelvo a ejecutar servidor
